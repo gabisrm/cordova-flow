@@ -1,0 +1,1 @@
+var HOST="https://pre.airzonecloud.com";
